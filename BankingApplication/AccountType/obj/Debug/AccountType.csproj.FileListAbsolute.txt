@@ -1,0 +1,12 @@
+C:\Users\takum\Desktop\BankingApplication\AccountType\bin\Debug\AccountType.dll
+C:\Users\takum\Desktop\BankingApplication\AccountType\bin\Debug\AccountType.pdb
+C:\Users\takum\Desktop\BankingApplication\AccountType\obj\Debug\AccountType.csprojAssemblyReference.cache
+C:\Users\takum\Desktop\BankingApplication\AccountType\obj\Debug\AccountType.csproj.CoreCompileInputs.cache
+C:\Users\takum\Desktop\BankingApplication\AccountType\obj\Debug\AccountType.dll
+C:\Users\takum\Desktop\BankingApplication\AccountType\obj\Debug\AccountType.pdb
+C:\Users\takum\OneDrive\Desktop\BankingApplication\AccountType\bin\Debug\AccountType.dll
+C:\Users\takum\OneDrive\Desktop\BankingApplication\AccountType\bin\Debug\AccountType.pdb
+C:\Users\takum\OneDrive\Desktop\BankingApplication\AccountType\obj\Debug\AccountType.csprojAssemblyReference.cache
+C:\Users\takum\OneDrive\Desktop\BankingApplication\AccountType\obj\Debug\AccountType.csproj.CoreCompileInputs.cache
+C:\Users\takum\OneDrive\Desktop\BankingApplication\AccountType\obj\Debug\AccountType.dll
+C:\Users\takum\OneDrive\Desktop\BankingApplication\AccountType\obj\Debug\AccountType.pdb
