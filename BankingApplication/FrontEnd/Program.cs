@@ -690,6 +690,7 @@ namespace FrontEnd
                                 Console.WriteLine("==========> Please Enter Valid Number <==========");
                             else
                             {
+                                Console.Write("==========>> Enter Maturity Date (Format: 20190611): ");
                                 int mDate = Convert.ToInt32(Console.ReadLine());
                                 Console.Write("==========>> Enter Interest Rate (Format: If it is 3%, enter 0.03): ");
                                 double apr = Convert.ToDouble(Console.ReadLine());
